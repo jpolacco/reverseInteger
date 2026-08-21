@@ -14,4 +14,9 @@ Look for the TODO comments for code to complete.
 Hint: Use integer division and modulus. For example:
 
 456 / 10 evaluates to 45 
+
+
 456 % 10 evaluates to 6
+
+
+Also, you might use a while loop that stops when the division by ten reaches zero. 
